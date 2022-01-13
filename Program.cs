@@ -10,7 +10,7 @@ namespace ConsoleApp_MP1_Level1
         {
 
             List<Asset> assets = new List<Asset>();
-
+            // test
             Console.WriteLine("Enter User Assets: ");
 
             while (true)
